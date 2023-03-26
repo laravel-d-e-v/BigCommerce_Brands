@@ -29,12 +29,12 @@ yarn-error.log
 /storage/
 /tests/
 
-.editorconfig
-.env.example
-.gitattributes
-artisan
-composer.json
-composer.lock
-package.json
-phpunit.xml
-vite.config.js
+/.editorconfig
+/.env.example
+/.gitattributes
+/artisan
+/composer.json
+/composer.lock
+/package.json
+/phpunit.xml
+/vite.config.js

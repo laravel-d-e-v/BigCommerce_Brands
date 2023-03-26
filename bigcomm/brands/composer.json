@@ -1,0 +1,11 @@
+{
+    "name": "bigcomm/brands",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BigComm\\Brands": "/"
+        }
+    }
+}
