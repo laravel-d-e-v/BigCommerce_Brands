@@ -3,6 +3,7 @@
     "type": "library",
     "minimum-stability": "stable",
     "require": {},
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "BigComm\\Brands\\": "src/"
